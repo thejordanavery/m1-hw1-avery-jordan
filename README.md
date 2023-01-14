@@ -1,7 +1,7 @@
 # m1-hw1-avery-jordan
 Markup :  # My First Coding Assignment #
 
-Markup : ![Jordan Avery Dancing](https://drive.google.com/file/d/1MerZdYZscBJmlU1l1nUGNDrUHy44Nu6v/view?usp=sharing)
+Markup : ![Jordan Avery Dancing](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
 
 Markup :  ## About Me ##
 
