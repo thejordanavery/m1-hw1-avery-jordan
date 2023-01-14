@@ -9,5 +9,19 @@ I am new to the College of Journalism and Communications' graduate program at th
 
 Markup :  ## Past Coding Experience ##
 
-I have not coded a day in my life. Well actually that's not true 
+I have not coded a day in my life. Well actually, that's not true. I have explored with the HTML settings in Squarespace and Wix and I am the first to mess something up in inspect element whenever I see it. However, for the purposes of this course. I am a coding virgin.
+
+Markup :  ## Career Goals ##
+
+Markup : 1.  UX/UI Designer:
+             I want to be a UX/UI Designer. I am in this program to pursue it. 
+         2.  Master's Degree: 
+             I hope to seek my Mass Communication - Web Design degree from this university in May 2024. 
+         3.  Portfolio. 
+             I hope to have a book full of work that is world class and industry approved.
+
+
+              
+
+
 
