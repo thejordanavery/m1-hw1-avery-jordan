@@ -1,7 +1,7 @@
 # m1-hw1-avery-jordan
 Markup :  # My First Coding Assignment #
 
-Markup : ![Jordan Avery Dancing](data:image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==)
+Markup : ![Jordan Avery Dancing](https://www.flickr.com/photos/american_advertising_federation/49615190863/sizes/l/)
 
 Markup :  ## About Me ##
 
